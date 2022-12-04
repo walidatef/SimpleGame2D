@@ -1,8 +1,6 @@
 # SimpleGame2D
 #### Character game with three animations Idle, Jump and Run.
-
 #### Generate coins in a random position.
-
 #### Sound effect of jumping and coins.
 
 
